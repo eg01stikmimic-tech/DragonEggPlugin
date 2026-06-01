@@ -1,0 +1,6 @@
+name: DragonEggPlugin
+version: 1.0.0
+main: ru.dragonegg.DragonEggPlugin
+api-version: "1.21"
+author: DragonEggDev
+description: Dragon Egg Effects Plugin
